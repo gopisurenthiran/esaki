@@ -1,0 +1,1 @@
+﻿positionForPages[18]=[{word:"BEHIND THE CURTAIN  ",left:0.271551,top:0.027011,width:0.180844,height:0.244540},{word:"Getting ready the class rooms for classes I to VIII",left:0.088893,top:0.026189,width:0.045833,height:0.062704}];

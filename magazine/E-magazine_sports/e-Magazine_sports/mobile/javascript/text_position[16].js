@@ -1,0 +1,1 @@
+﻿positionForPages[17]=[{word:"17  ",left:0.919774,top:0.007055,width:0.058233,height:0.912719},{word:"      JIGSAW: THEY ARE TRYING TO GIVE THE CORRECT SHAPE (TESTING FINE MOTOR SKILL) ",left:0.000000,top:0.005039,width:0.782701,height:0.005039}];

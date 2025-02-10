@@ -1,0 +1,1 @@
+﻿positionForPages[8]=[{word:"8  ",left:0.932675,top:0.007055,width:0.045332,height:0.925620},{word:"Runners-up share their true sportsmen spirit with their Physical Education Teachers ",left:0.115944,top:0.016933,width:0.158206,height:0.099011}];

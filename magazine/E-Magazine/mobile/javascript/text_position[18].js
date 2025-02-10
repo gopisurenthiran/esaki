@@ -1,0 +1,1 @@
+﻿positionForPages[19]=[{word:"Activities N Activities",left:0.257441,top:0.029026,width:0.166135,height:0.228415}];

@@ -1,0 +1,1 @@
+﻿positionForPages[20]=[{word:"20  ",left:0.919774,top:0.007055,width:0.058233,height:0.912719},{word:"           Tiny Tots unique steps along with the rhythm of sticks                        ",left:0.000000,top:0.005039,width:0.555471,height:0.005039},{word:"    Integration              ",left:0.644343,top:0.005039,width:0.088872,height:0.639304}];

@@ -1,0 +1,1 @@
+﻿positionForPages[10]=[{word:"Art Gallery ",left:0.325220,top:0.045465,width:0.136253,height:0.279755},{word:"  By – Bharath – Grade XII A ",left:0.070550,top:0.005846,width:0.591708,height:0.064704},{word:"     By – Somesh Bharathwaj – XII A ",left:0.422378,top:0.005846,width:0.239880,height:0.416532}];

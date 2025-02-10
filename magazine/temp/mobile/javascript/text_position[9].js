@@ -1,0 +1,1 @@
+﻿positionForPages[10]=[{word:"By – Bharath – Grade XII A ",left:0.070550,top:0.005846,width:0.434746,height:0.064704},{word:"     By – Somesh Bharathwaj – XII A ",left:0.422378,top:0.005846,width:0.082918,height:0.416532}];

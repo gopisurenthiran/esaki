@@ -1,0 +1,1 @@
+﻿positionForPages[7]=[{word:"An Inborn Artist ",left:0.276994,top:0.034818,width:0.154829,height:0.242176},{word:"Siva Sakthi   Class IX C",left:0.299822,top:0.019956,width:0.136963,height:0.279866},{word:"–",left:0.489737,top:0.015118,width:0.326878,height:0.474619}];

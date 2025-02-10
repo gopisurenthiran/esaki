@@ -1,0 +1,1 @@
+﻿positionForPages[22]=[{word:"22  ",left:0.919774,top:0.007055,width:0.058233,height:0.912719},{word:"Top: Kolattam,     Middle: Kerchief Dance,       Bottom: Drill Dance ",left:0.175401,top:0.013485,width:0.489427,height:0.161916}];

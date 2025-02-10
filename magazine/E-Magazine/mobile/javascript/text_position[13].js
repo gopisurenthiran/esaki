@@ -1,0 +1,1 @@
+﻿positionForPages[14]=[{word:"Faculty Development Programme (FDP)",left:0.135094,top:0.021518,width:0.044176,height:0.113576},{word:"Held in May 2022 ",left:0.390933,top:0.019854,width:0.257658,height:0.371079}];

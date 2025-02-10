@@ -1,0 +1,1 @@
+﻿positionForPages[7]=[{word:".                           ",left:0.468941,top:0.006047,width:0.061491,height:0.462894}];

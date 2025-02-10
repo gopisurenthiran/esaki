@@ -1,0 +1,1 @@
+﻿positionForPages[16]=[{word:"BALLOONS DAY CELEBRATED",left:0.199993,top:0.030478,width:0.092714,height:0.169515}];

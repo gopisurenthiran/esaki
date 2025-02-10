@@ -1,0 +1,1 @@
+﻿positionForPages[2]=[{word:"2  ",left:0.932675,top:0.007055,width:0.045332,height:0.925620},{word:"SPORTS SPECIAL ",left:0.160895,top:0.022527,width:0.049814,height:0.138368},{word:"PADMASHREE DHANRAJ PILLAY ",left:0.615115,top:0.014315,width:0.277170,height:0.600800}];

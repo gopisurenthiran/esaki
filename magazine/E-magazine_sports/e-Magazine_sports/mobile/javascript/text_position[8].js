@@ -1,0 +1,1 @@
+﻿positionForPages[9]=[{word:"9  ",left:0.932675,top:0.007055,width:0.045332,height:0.925620},{word:"                      SCHOOL BAND TEAM WITH PADMASHREE DHANRAJ PILLAY AND THE PRINCIPAL ",left:0.000000,top:0.005039,width:0.074629,height:0.005039}];

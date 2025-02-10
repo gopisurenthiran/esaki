@@ -1,0 +1,1 @@
+﻿positionForPages[2]=[{word:"A MESSAGE FROM THE CHAIRMAN",left:0.282638,top:0.022612,width:0.168038,height:0.260026}];
