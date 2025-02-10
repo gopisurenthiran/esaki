@@ -16403,3 +16403,10 @@ background: #3b4c77;
   border-bottom-right-radius: 10px;
   border-top-left-radius: 10px;
 }
+
+#school-content .nav {
+  display: flex;
+  justify-content: center;
+  border: none;
+  gap: 15px;
+}
