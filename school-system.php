@@ -33,8 +33,8 @@
                     <div class="breadcrumbs-img">
                             <img src="assets/images/about/school-system-banner.png" alt="Breadcrumbs Image">
                     </div>
-                    <div class="breadcrumbs-text white-color">
-                            <h1 class="page-title">School System</h1>
+                    <div class="inner-page breadcrumbs-text white-color">
+                            <h1 class="page-title1">School System</h1>
                             <ul>
                                 <li>
                                     <a class="active" href="index.php">Home</a>

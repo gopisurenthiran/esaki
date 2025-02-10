@@ -31,25 +31,18 @@
                 <!-- Main content Start -->
                 <div class="main-content">
                     <!-- Breadcrumbs Start -->
-                    <?php $id = $_GET['id'];
-             $sel = mysqli_query($link,"select * from facility where autoid='$id'");
-            $fet = mysqli_fetch_object($sel); ?>
-                        <div class="rs-breadcrumbs breadcrumbs-overlay">
-                            <div class="breadcrumbs-img">
-                                <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
-                            </div>
-                            <div class="breadcrumbs-text white-color">
-                                <h1 class="page-title"> INFRASTRUCTURE</h1>
-                                <ul>
-                                    <li>
-                                        <a class="active" href="index.php">Home</a>
-                                    </li>
-                                    <li>
-                                        INFRASTRUCTURE
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                    <section class="cbsehomepage">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-12 p-0">
+                    <div class="">
+                      <img src="assets/images/slider/sport-banner.png" style="width: 100%;">
+                      <div class="text-position"><p class="text-white hero-content1">Sports<span>&Co-Curricular</span></p></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section> 
                         <!-- Breadcrumbs End -->
 
 
@@ -77,7 +70,7 @@
                                                 <div class="accordion" id="faq">
                                                     <div class="card">
                                                         <div class="card-header" id="faqhead1">
-                                                            <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1" aria-expanded="true" aria-controls="faq1"><img src="assets/images/course.png"> RIDING</a>
+                                                            <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1" aria-expanded="true" aria-controls="faq1"><img src="assets/images/course.png">&nbsp; RIDING</a>
                                                         </div>
 
                                                         <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
@@ -90,7 +83,7 @@
                                                     </div>
                                                     <div class="card">
                                                         <div class="card-header" id="faqhead2">
-                                                            <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2" aria-expanded="true" aria-controls="faq2"><img src="assets/images/computer-science.png"> BANDS
+                                                            <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2" aria-expanded="true" aria-controls="faq2"><img src="assets/images/computer-science.png">&nbsp;BANDS
                                                             </a>
                                                         </div>
 
@@ -105,7 +98,7 @@
                                                     </div>
                                                     <div class="card">
                                                         <div class="card-header" id="faqhead3">
-                                                            <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3" aria-expanded="true" aria-controls="faq3"><img src="assets/images/language.png">MUSIC
+                                                            <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3" aria-expanded="true" aria-controls="faq3"><img src="assets/images/music.png">&nbsp;MUSIC
                                                             </a>
                                                         </div>
 
@@ -120,7 +113,7 @@
 
                                                     <div class="card">
                                                         <div class="card-header" id="faqhead4">
-                                                            <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4" aria-expanded="true" aria-controls="faq3"><img src="assets/images/language.png">DANCE
+                                                            <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4" aria-expanded="true" aria-controls="faq3"><img src="assets/images/workout.png">&nbsp;DANCE
                                                             </a>
                                                         </div>
 

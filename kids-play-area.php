@@ -36,8 +36,8 @@
                 <div class="row">
                   <div class="col-12 p-0">
                     <div class="">
-                      <img src="assets/images/slider/infrastructure-banner.png" style="width: 100%;">
-                      <div class="text-position"><p class="text-white hero-content1">Infrastructure<span>Details</span></p></div>
+                      <img src="assets/images/slider/kids-banner.png" style="width: 100%;">
+                      <div class="text-position"><p class="text-white hero-content1">Kids<span>Play Area</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -63,30 +63,36 @@
                                                 <div class="accordion" id="faq">
                                                     <div class="card">
                                                         <div class="card-header" id="faqhead1">
-                                                            <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1" aria-expanded="true" aria-controls="faq1"><img src="assets/images/course.png"> CLASSROOM</a>
+                                                            <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1" aria-expanded="true" aria-controls="faq1"><img src="assets/images/playground.png" style="
+    margin-right: 8px;
+">Types of Play Area</a>
                                                         </div>
 
                                                         <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                                             <div class="card-body">
-                                                               <p>Fully furnished, Smart Board equipped, spacious classrooms.</p>
-
+                                                               <p>There are different types of parks. Esaki Vidyaashram has a Kids’ Park as a Pocket Park. It provides
+                                                                kids with recreation and enjoyment and that operates a hub of activities. Some of the playground
+                                                                equipment includes Swing Set, Slides, Merry-Go-Round, Spring Rides, Climbers, See saw and Duck
+                                                                see saw.</p>
+                                                                                                                            
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="card">
                                                         <div class="card-header" id="faqhead2">
-                                                            <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2" aria-expanded="true" aria-controls="faq2"><img src="assets/images/computer-science.png"> COMPUTER LAB
+                                                            <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2" aria-expanded="true" aria-controls="faq2"><img src="assets/images/play.png" style="margin-right: 8px;">Play Activities
                                                             </a>
                                                         </div>
 
                                                         <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                                             <div class="card-body">
-                                                               <p>Computer Systems with updated softwares are provided for students to enhance their learning along with latest technology</p>
+                                                               <p>Students enjoy and entertain the park equipment where they can get engaged in play like activities
+                                                               like Swinging, Climbing, Hanging, Jumping, Crawling and stepping.</p>
 
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="card">
+                                                    <!-- <div class="card">
                                                         <div class="card-header" id="faqhead3">
                                                             <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3" aria-expanded="true" aria-controls="faq3"><img src="assets/images/language.png">LANGUAGE LAB
                                                         </a>
@@ -97,7 +103,7 @@
                                                                 <p>A separate laboratory for English language is available to enrich students with both fluency and accuracy in English Language.</p>
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -106,7 +112,7 @@
 
 
                                     <div class="col-lg-7  col-md-5 col-sm-5 col-xs-12 mt-5">
-                                        <img src="web_control/uploads/facility/1574782693infraaaaa_col.jpg">
+                                        <img src="web_control/uploads/facility/1665007521kid_facility_col.jpg">
                                     </div>
                                 </div>
                             </div>

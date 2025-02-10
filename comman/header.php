@@ -90,7 +90,6 @@ $fet_con = mysqli_fetch_object($sel_con); ?>
                                <li><a href="school-system.php"> School System</a> </li>
                                <li><a href="messages.php"> Messages</a> </li>
                                <li><a href="vision-mission.php">Mission & Objectives </a> </li>
-                               <li><a href="downloads.php">Downloads </a> </li>
                                <li><a href="fees.php">Fees Structure </a> </li>
                             </ul>
                            </li>
@@ -101,9 +100,9 @@ $fet_con = mysqli_fetch_object($sel_con); ?>
                             <ul class="sub-menu">
                               <li><a href="infrastructure_facilities.php"> INFRASTRUCTURE</a> </li>
                                 <li><a href="sports_facilities.php"> SPORTS &amp; CO-CURRICULAR</a> </li>
-                                 <li><a href="facility.php?id=FA-3"> FOOD</a> </li>
-                                 <li><a href="facility.php?id=FA-5"> Kids Play Area</a> </li>
-                                  <li><a href="facility.php?id=FA-6"> TRANSPORT</a> </li>
+                                 <li><a href="food.php"> FOOD</a> </li>
+                                 <li><a href="kids-play-area.php"> Kids Play Area</a> </li>
+                                  <li><a href="transport-details.php"> TRANSPORT</a> </li>
                                                           
                               </ul>
 

@@ -32,10 +32,10 @@
             <div class="rs-breadcrumbs breadcrumbs-overlay">
                     <div class="breadcrumbs-img">
 
-                            <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+                            <img src="assets/images/about/about-us.png" alt="Breadcrumbs Image">
                     </div>
-                    <div class="breadcrumbs-text white-color">
-                            <h1 class="page-title">About Us</h1>
+                    <div class="inner-page breadcrumbs-text white-color">
+                            <h1 class="page-title1">About Us</h1>
                             <ul>
                                 <li>
                                     <a class="active" href="index.php">Home</a>
@@ -49,7 +49,7 @@
             <!-- About Section Start -->
             <?php $sel_about = mysqli_query($link,"select * from about"); 
                 $fet_about = mysqli_fetch_object($sel_about); ?>
-            <div id="rs-about" class="rs-about style1 pt-100 pb-100 md-pt-70 md-pb-70">
+            <div id="rs-about" class="rs-about style1 pt-20 md-pt-70">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5 order-last padding-0 md-pl-15 md-pr-15 md-mb-30">
@@ -68,10 +68,28 @@
                     </div>
                 </div>
             </div>
-            <!-- About Section End -->
-
-          
+            <!-- About Section End -->          
         </div> 
+
+        <section class="">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-4"></div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                       <div class="download  text-center text-white">
+                           <a href="web_control/uploads/pdf/3838360779Esaki_mainbuilding.pdf" attributes-list="" download="optional-value">
+                            <i class="fa fa-download" aria-hidden="true">
+                            </i>
+                           </a>
+                           <h4> Download </h4>
+                       </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-4"></div>
+
+                </div>
+
+            </div>
+        </section>
         <!-- Main content End --> 
 
                 <!-- Newsletter section start -->

@@ -31,10 +31,10 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs breadcrumbs-overlay">
                     <div class="breadcrumbs-img">
-                            <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+                    <img src="assets/images/about/fees-banner.png" alt="Breadcrumbs Image">
                     </div>
-                    <div class="breadcrumbs-text white-color">
-                            <h1 class="page-title">FEES STRUCTURE</h1>
+                    <div class="inner-page breadcrumbs-text white-color">
+                            <h1 class="page-title2">FEES STRUCTURE</h1>
                             <ul>
                                 <li>
                                     <a class="active" href="index.php">Home</a>

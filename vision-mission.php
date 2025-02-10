@@ -34,8 +34,8 @@
                     <div class="breadcrumbs-img">
                             <img src="assets/images/about/mission-banner.png" alt="Breadcrumbs Image">
                     </div>
-                    <div class="breadcrumbs-text white-color">
-                            <h1 class="page-title">Vision & Mission</h1>
+                    <div class="inner-page breadcrumbs-text white-color">
+                            <h1 class="page-title1">Vision & Mission</h1>
                             <ul>
                                 <li>
                                     <a class="active" href="index.php">Home</a>

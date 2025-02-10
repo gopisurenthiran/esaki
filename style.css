@@ -16326,9 +16326,7 @@ background: #3b4c77;
 }
 
 
-/******************  News Slider Demo-4 *******************/
-
-
+/****************** ramya News Slider Demo-4 *******************/
 
 
 .download {
@@ -16339,74 +16337,218 @@ background: #3b4c77;
   border-radius: 40px;
   width:200px;
 }
-
+ 
 .download h4 {
   margin-top: 15px;
   color: #283d67;
 }
-
+ 
 .download i {
   padding-top: 10px;
   font-size: 21px;
   color: #283d67;
   padding-right:8px;
 }
-.page-title {
-  padding-left:500px;
+.page-title1{
+  color: white;
+  font-size: 48px;
+  margin-left:500px;
 }
 @media(min-width:320px){
-
-    .page-title {
-      padding-left: 100px;
-    
-  }
-
+  .page-title1 {
+    padding-top: 24px;
+    font-size: 20px;
+    margin-left: 143px;
+}
 }
 @media(min-width:690px){
-  .page-title {
-    padding-left: 300px;
-    padding-top: 0px;
+.page-title1 {
+  font-size: 38px;
+  margin-left: 300px;
 }
 }
 @media(min-width:1020px){
-  .page-title {
-    padding-left:500px;
-    padding-top:0px;
+.page-title1 {
+  margin-left:500px;
+  padding-top:0px;
 }
 }
-.rs-breadcrumbs .breadcrumbs-text ul{
+.page-title2{
+  color: white;
+  font-size: 48px;
+  margin-left:500px;
+}
+@media(min-width:320px){
+  .page-title2 {
+    padding-top: 24px;
+    font-size: 15px;
+    margin-left: 143px;
+}
+}
+@media(min-width:690px){
+.page-title2 {
+  font-size: 30px;
+  margin-left: 300px;
+}
+}
+@media(min-width:1020px){
+.page-title2 {
+  margin-left:500px;
+  padding-top:0px;
+}
+}
+.rs-breadcrumbs .inner-page ul{
   padding-left:500px;
 }
 @media(min-width:320px){
-  .rs-breadcrumbs .breadcrumbs-text ul{
+  .rs-breadcrumbs .inner-page ul{
     padding-left: 110px;
-    /* padding-top: 60px; */
+   
   }
 }
 @media(min-width:690px){
-  .rs-breadcrumbs .breadcrumbs-text ul{
+  .rs-breadcrumbs .inner-page ul{
     padding-left: 280px;
   }
 }
 @media(min-width:1020px){
-  .rs-breadcrumbs .breadcrumbs-text ul{
+  .rs-breadcrumbs .inner-page ul{
     padding-left:500px;
   }
 }
+ 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
   padding-left: 30px;
   padding-right: 30px;
-  color: #fff;
+  color: #fff !important;
   background-color: #3a4c7a;
 }
 .nav-pills .nav-link {
   border-bottom-right-radius: 10px;
   border-top-left-radius: 10px;
 }
-
+ 
+ 
+ 
+/* Next page */
 #school-content .nav {
   display: flex;
   justify-content: center;
   border: none;
   gap: 15px;
 }
+
+
+
+
+/**********************janani style************************/
+
+@media(min-width:320px){
+  .faculty-tab-head {
+    background-color: #273c66;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #000;
+}
+}
+
+@media(min-width:690px){
+.faculty-tab-head {
+  background-color: #273c66;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  border: 1px solid #000;
+}
+}
+@media(min-width:1020px){
+  .faculty-tab-head {
+    background-color: #273c66;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #000;
+  }
+  }
+  @media(min-width:320px){
+.faculty-table-content {
+  font-size: 14px;
+  text-align: center;
+  font-weight: 500;
+  font-family: 'Raleway'!important;
+}
+  }
+  @media(min-width:690px){
+    .faculty-table-content {
+      font-size: 15px;
+      text-align: center;
+      font-weight: 500;
+      font-family: 'Raleway'!important;
+    }
+      }
+  @media(min-width:1020px){
+    .faculty-table-content {
+      font-size: 16px;
+      text-align: center;
+      font-weight: 500;
+      font-family: 'Raleway'!important;
+    }
+      }
+        /* .faculty-table-content {
+          font-size: 17px;
+          text-align: center;
+          font-weight: 500;
+          font-family: 'Raleway'!important;
+        } */
+          
+.body_content{
+  font-family: 'Raleway';
+}
+.table-bordered td, .table-bordered th {
+  border: 1px solid #000 !important;
+}
+
+
+
+.body-table-background{  
+  background-color: #c3deff;
+} 
+@media(min-width:320px){
+ .tab-font{
+   font-size:12px;
+ }
+}
+@media(min-width:690px){
+ .tab-font{
+   font-size:15px
+ }
+}
+
+@media(min-width:1020px){
+ .tab-font{
+   font-size:18px;
+ }
+}
+
+@media(min-width:320px){
+.hero-content1 {
+ font-family: 'Josefin Sans';
+ font-size: 20px;
+}
+}
+@media(min-width:690px){
+ .hero-content1 {
+   font-family: 'Josefin Sans';
+   font-size: 28px;
+}
+ }
+ @media(min-width:1020px){
+   .hero-content1 {
+     font-family: 'Josefin Sans';
+     font-size: 38px;
+  
+ }
+   }
+
+/*********************end*************************************/
