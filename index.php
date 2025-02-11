@@ -82,9 +82,9 @@
                     <div class="">
                       <img src="assets/images/slider/banner_new.png" style="width: 100%;">
                       <div class="text-position">
-                        <h2 class="text-white h2-font-style">Inspiring Young Minds, Shaping Bright Futures</h2>
+                        <h2 class="text-white h2-font-style d-none d-md-none d-lg-block">Inspiring Young Minds, Shaping Bright Futures</h2>
                        </div>
-                        <p class="text-white hero-content"> <span>At Esaki International Board, education meets excellence. Empowering students with knowledge, values, and global perspectives for a successful tomorrow</span></p>
+                        <p class="text-white hero-content d-none d-md-none d-lg-block"> <span>At Esaki International Board, education meets excellence. Empowering students with knowledge, values, and global perspectives for a successful tomorrow</span></p>
                     </div>
                   </div>
                 </div>
