@@ -32,10 +32,10 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs breadcrumbs-overlay">
                     <div class="breadcrumbs-img">
-                            <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+                            <img src="assets/images/news-banner.png" alt="Breadcrumbs Image">
                     </div>
-                    <div class="breadcrumbs-text white-color">
-                            <h1 class="page-title">NEWS & EVENTS</h1>
+                    <div class="event breadcrumbs-text white-color">
+                            <h1 class="page-title3">NEWS & EVENTS</h1>
                             <ul>
                                 <li>
                                     <a class="active" href="index.php">Home</a>
