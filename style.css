@@ -16551,4 +16551,93 @@ background: #3b4c77;
  }
    }
 
+
+   .page-title3{
+    color:white;
+    font-size:48px;
+     padding-right: 600px;
+   }
+@media (min-width:320px){
+  .page-title3{
+    font-size:20px;
+    padding-right:100px;
+  }
+}
+@media (min-width:690px){
+  .page-title3{
+    font-size:30px;
+    padding-right:330px;
+  }
+}
+@media (min-width:1020px){
+  .page-title3{
+    font-size:48px;
+     padding-right: 600px;
+  }
+}
+   .rs-breadcrumbs .event ul{
+      padding-right:600px;
+   }
+   @media (min-width:320px){
+    .rs-breadcrumbs .event ul{
+      padding-right:90px;
+    }
+   }
+   @media (min-width:690px){
+    .rs-breadcrumbs .event ul{
+      padding-right:330px;
+    }
+   }
+   @media (min-width:1020px){
+    .rs-breadcrumbs .event ul{
+      padding-right:600px;
+    }
+   }
+.page-title4 {
+  font-size:48px;
+  padding-left: 110px;
+  color: #003366;
+}
+@media(min-width:320px){
+  .page-title4{
+    padding-left: 18px;
+    font-size: 20px;
+  }
+}
+@media(min-width:690px){
+  .page-title4{
+    padding-left:40px;
+  font-size: 48px;
+  }
+}
+@media(min-width:1020px){
+  .page-title4{
+    padding-left:110px;
+    font-size:48px;
+  }
+}
+.rs-breadcrumbs .gallery ul{
+  padding-left:100px;
+}
+@media(min-width:320px){
+  .rs-breadcrumbs .gallery ul{
+    padding-left:20px;
+  }
+}
+@media(min-width:690px){
+  .rs-breadcrumbs .gallery ul{
+    padding-left:30px;
+  }
+}
+@media(min-width:1020px){
+  .rs-breadcrumbs .gallery ul{
+    padding-left:100px;
+  }
+}
+.rs-breadcrumbs .breadcrumbs-text ul li a {
+  color:#003366;
+}
+.rs-breadcrumbs .breadcrumbs-text ul li {
+  color:#330066;
+}
 /*********************end*************************************/
