@@ -101,7 +101,7 @@
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12 m-auto">
                                 <div class="e-commerce-brand">
-                                    <h4 class="home-section-first-small-titles head-font-style">About us</h4>
+                                    <!-- <h4 class="home-section-first-small-titles head-font-style">About us</h4> -->
                                     <h2 class="first-maintitle">Welcome to</h2>
                                     <span class="first-section-title head-font-style">Esaki Vidyaashram</span> </h2>
                                     <p class="content-last-section content-font-style">Esaki Vidyaashram is synonymous with standardized education. To meet the growing academic challenges globally, we are determined to run the institution to shape the individuals into truly global citizens with human
