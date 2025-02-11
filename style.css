@@ -11931,7 +11931,7 @@ body .modal-backdrop {
 ---------------------------------------*/
 .rs-newsletter.style1 .newsletter-wrap {
   /* background: url(assets/images/bg/newsletter-bg.jpg); */
-  background: #e35b3c;
+  /* background: #e35b3c; */
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 3px;
@@ -14089,7 +14089,7 @@ body .modal-backdrop {
 ------------------------------------*/
 .rs-footer {
   background-color: #273c66;
-  background-image: url(assets/images/bg/footer-bg.png);
+  /* background-image: url(assets/images/bg/footer-bg.png); */
   background-size: cover;
 }
 .rs-footer .footer-top {
@@ -15640,7 +15640,7 @@ color: #415d96;
 
 .rs-breadcrumbs-contact {
   background: rgb(226, 226, 226);
-  background: linear-gradient(94deg, #716f6f  52%, #e2e2e2 89%);
+  background: linear-gradient(94deg, #3a4673  52%, #b1b1b3 89%);
   height: 250px;
 }
 
@@ -15846,9 +15846,9 @@ color: #415d96;
 .sticky-icon  {
   z-index:1;
   position:fixed;
-  top:40%;
+  top:30%;
   right:0%;
-  width:220px;
+  /* width:220px; */
   display:flex;
   flex-direction:column;}  
 .sticky-icon a  {

@@ -3,15 +3,16 @@
 $fet_con = mysqli_fetch_object($sel_con); ?>   
 
  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"rel="stylesheet"> 
-
  <link href='https://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet'>
-
  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
-
  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
 
-       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+<?php
+  $current_page = basename($_SERVER['PHP_SELF']);
+?>
+
  <!--Full width header Start-->
         <div class="full-width-header header-style2">
             <!--Header Start-->
@@ -81,7 +82,8 @@ $fet_con = mysqli_fetch_object($sel_con); ?>
                                         </div>
                                         <nav class="rs-menu">
                                            <ul class="nav-menu">
-                                             <li><a href="index.php">Home </a></li>
+                                            
+                                             <li class="<?= ($current_page == 'index.php') ? 'active' : '' ?>"><a href="index.php">Home </a></li>
                                              
 						   <li class="menu-item-has-children">
                             <a href="#">School</a>
@@ -108,13 +110,13 @@ $fet_con = mysqli_fetch_object($sel_con); ?>
 
 
                         </li>
-                            <li><a href="gallery.php">Gallery</a></li>
+                            <li class="<?= ($current_page == 'gallery.php') ? 'active' : '' ?>"><a href="gallery.php">Gallery</a></li>
 							
 							<!-- <li><a href="#">Fees</a></li> -->
-                      <li><a href="career.php">Career </a></li>
-<li><a href="news-events.php">News & Events</a></li>
-<li><a href="faculty.php">Our Faculty</a></li>
-<li><a href="contact.php">Contact Us</a></li>
+                      <li class="<?= ($current_page == 'career.php') ? 'active' : '' ?>"><a href="career.php">Career </a></li>
+<li class="<?= ($current_page == 'news-events.php') ? 'active' : '' ?>"><a href="news-events.php">News & Events</a></li>
+<li class="<?= ($current_page == 'faculty.php') ? 'active' : '' ?>"><a href="faculty.php">Our Faculty</a></li>
+<li class="<?= ($current_page == 'contact.php') ? 'active' : '' ?>"><a href="contact.php">Contact Us</a></li>
                                            </ul> <!-- //.nav-menu -->
                                         </nav> 
                                     </div> <!-- //.main-menu -->

@@ -34,20 +34,19 @@
             <!-- Main content Start -->
         <div class="main-content">
             <!-- Breadcrumbs Start -->
-            <div class="rs-breadcrumbs breadcrumbs-overlay">
-                    <div class="breadcrumbs-img">
-                            <img src="assets/images/bg/career-banner.jpg" alt="Breadcrumbs Image">
-                    </div>
-                    <div class="breadcrumbs-text white-color">
-                            <h1 class="page-title">CAREER</h1>
-                            <ul>
-                                <li>
-                                    <a class="active" href="index.php">Home</a>
-                                </li>
-                                <li>CAREER</li>
-                            </ul>
-                    </div>
-            </div>
+          <div class="rs-breadcrumbs-contact breadcrumbs-overlay">
+                            <div class="breadcrumbs-img-color"></div>
+                            <div class="breadcrumbs-text white-color">
+                                <h1 class="page-title">CAREER </h1>
+                                <ul>
+                                    <li>
+                                        <a class="active" href="index.php">HOME</a>
+                                    </li>
+                                    <li> <i class="fa-solid fa-angle-right"></i> </li>
+                                    <li>CAREER</li>
+                                </ul>
+                            </div>
+                        </div>
             <!-- Breadcrumbs End -->
 
 

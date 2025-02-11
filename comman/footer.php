@@ -4,12 +4,12 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <h4 class="widget-title">Categories</h4>
+                <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-50">
+                    <h4 class="widget-title">Quick Links</h4>
                     <ul class="site-map">
-                        <li><a href="downloads.php">Downloads</a></li>
+                        <li><a href="about.php">About us</a></li>
                         <li><a href="news-events.php">News & Events</a></li>
-                        <li><a href="faculty.php">Our Faculty</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
@@ -43,9 +43,9 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-5 col-md-12 col-sm-12 footer-widget md-mb-50">
+                <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-50">
                     <h4 class="widget-title">Enquiry</h4>
-                          <h5 class="widget-title">Enquiry Us to join Our Community </h5>
+                          <!-- <h5 class="widget-title">Enquiry Us to join Our Community </h5> -->
 
                     <div class="rs-newsletter style1 mb--124 sm-mb-0 sm-pb-70">
                         <div class="container">
@@ -67,14 +67,13 @@
 
                                 <div class="row justify-content-md-center">
                                     <div class="col-12 col-md-10 col-lg-9 col-xl-12 col-xxl-7">
-                                        <form class="row gy-3 gy-lg-0 gx-lg-2 justify-content-center">
-                                            <div class="col-12 col-lg-8">
-                                                <label for="email-newsletter-component" class="visually-hidden"></label>
-                                                <input type="email" class="form-control bsb-form-control-3xl" id="email-newsletter-component" value="" placeholder="Email Address" aria-label="email-newsletter-component" aria-describedby="email-newsletter-help" required="">
-                                                <div id="email-newsletter-help" class="form-text text-center text-lg-start"></div>
-                                            </div>
-                                            <div class="col-12 col-lg-3 text-center text-lg-start">
-                                                <button type="submit" class="btn btn-primary bsb-btn-3xl">Subscribe</button>
+                                        <form class="row gy-3 gy-lg-0 gx-lg-2 ">
+                                            <div class="col-6 col-lg-12 ">
+                                                <p class="text-white d-flex align-items-center ">Enquiry Us to join Our Community</p>
+                                                </div>
+                                         
+                                            <div class="col-12 col-lg-12 ">
+                                                <button type="submit" class="btn btn-primary bsb-btn-3xl">Join us </button>
                                             </div>
                                         </form>
                                     </div>
