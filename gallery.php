@@ -45,14 +45,15 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs breadcrumbs-overlay">
                     <div class="breadcrumbs-img">
-                            <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+                            <img src="assets/images/gallery-banner.png" alt="Breadcrumbs Image">
                     </div>
-                    <div class="breadcrumbs-text white-color">
-                            <h1 class="page-title">GALLERY</h1>
-                            <ul>
+                    <div class="gallery breadcrumbs-text">
+                            <h1 class="page-title4">GALLERY</h1>
+                            <ul class="d-none d-md-block d-lg-block">
                                 <li>
                                     <a class="active" href="index.php">Home</a>
                                 </li>
+                                <li> <i class="fa-solid fa-angle-right"></i> </li>
                                 <li>GALLERY</li>
                             </ul>
                     </div>
@@ -61,7 +62,7 @@
 <div id="rs-popular-courses" class="rs-popular-courses style1 orange-color modify1 pt-25 pb-100 md-pt-70 md-pb-70">
                 <div class="container">
 
-                    <div class="gridFilter style2 text-center mb-30">
+                    <div class="gridFilter style2 mb-30">
                         <button class="active" data-filter="*" fdprocessedid="55yj8g">All</button>
                         <?php $sel_gal = mysqli_query($link,"select type from gallery group by type"); $i=1;
                         while($fet_type = mysqli_fetch_object($sel_gal)){ ?>

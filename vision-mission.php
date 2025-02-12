@@ -36,10 +36,11 @@
                     </div>
                     <div class="inner-page breadcrumbs-text white-color">
                             <h1 class="page-title1">Vision & Mission</h1>
-                            <ul>
+                            <ul class="d-none d-md-block d-lg-block">
                                 <li>
                                     <a class="active" href="index.php">Home</a>
                                 </li>
+                                <li> <i class="fa-solid fa-angle-right"></i> </li>
                                 <li>vision & mission</li>
                             </ul>
                     </div>

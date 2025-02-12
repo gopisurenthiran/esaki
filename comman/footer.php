@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-50">
+                <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-50 sm-mt-20">
                     <h4 class="widget-title">Quick Links</h4>
                     <ul class="site-map">
                         <li><a href="about.php">About us</a></li>
@@ -47,7 +47,7 @@
                     <h4 class="widget-title">Enquiry</h4>
                           <!-- <h5 class="widget-title">Enquiry Us to join Our Community </h5> -->
 
-                    <div class="rs-newsletter style1 mb--124 sm-mb-0 sm-pb-70">
+                    <div class="rs-newsletter style1">
                         <div class="container">
                             <div class="newsletter-wrap">
 

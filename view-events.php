@@ -36,14 +36,15 @@ $fet = mysqli_fetch_object($sel);
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs breadcrumbs-overlay">
                     <div class="breadcrumbs-img">
-                            <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+                            <img src="assets/images/news-banner.png" alt="Breadcrumbs Image">
                     </div>
-                    <div class="breadcrumbs-text white-color">
-                            <h1 class="page-title"> VIEW EVENTS</h1>
+                    <div class="view breadcrumbs-text white-color d-none d-md-none d-lg-block">
+                            <h1 class="page-title5"> VIEW EVENTS</h1>
                             <ul>
                                 <li>
                                     <a class="active" href="index.php">Home</a>
                                 </li>
+                                <li> <i class="fa-solid fa-angle-right"></i> </li>
                                 <li><a href="news-events.php">Events</a></li>
                                 <li><?php echo $fet->title; ?></li>
                             </ul>
@@ -71,7 +72,7 @@ $fet = mysqli_fetch_object($sel);
         <!-- Main content End --> 
 
                 <!-- Newsletter section start -->
-                <div class="rs-newsletter style1 mb--124 sm-mb-0 sm-pb-70">
+                <!-- <div class="rs-newsletter style1 mb--124 sm-mb-0 sm-pb-70">
                     <div class="container">
                         <div class="newsletter-wrap">
                             <div class="row y-middle">
@@ -89,11 +90,11 @@ $fet = mysqli_fetch_object($sel);
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- Newsletter section end -->
-            </div>
+            <!-- </div> -->
             <!-- Section bg Wrap 2 End -->
-        </div> 
+        <!-- </div>  -->
         <!-- Main content End --> 
      
         <?php include "comman/footer.php"; ?>
