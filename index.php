@@ -141,7 +141,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-12">
-                                <img src="assets/images/firstsectionimage.png" alt="Build Perfect Future" class="img-fluid">
+                                <img src="assets/images/image.png" alt="Build Perfect Future" class="img-fluid">
                             </div>
                         </div>
                     </div>
