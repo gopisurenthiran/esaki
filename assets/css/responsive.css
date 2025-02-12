@@ -852,7 +852,7 @@
     }
 
     .rs-breadcrumbs .breadcrumbs-img img {
-        min-height: 350px;
+        min-height: 0px;
     }
     .rs-breadcrumbs .breadcrumbs-text .page-title {
         font-size: 45px;
@@ -2954,7 +2954,7 @@
     }
 
     .rs-breadcrumbs .breadcrumbs-img img {
-        min-height: 250px;
+        min-height: 0px;
     }
     .rs-breadcrumbs .breadcrumbs-text .page-title {
         font-size: 35px;
