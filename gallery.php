@@ -62,7 +62,7 @@
 <div id="rs-popular-courses" class="rs-popular-courses style1 orange-color modify1 pt-25 pb-100 md-pt-70 md-pb-70">
                 <div class="container">
 
-                    <div class="gridFilter style2 text-center mb-30">
+                    <div class="gridFilter style2 mb-30">
                         <button class="active" data-filter="*" fdprocessedid="55yj8g">All</button>
                         <?php $sel_gal = mysqli_query($link,"select type from gallery group by type"); $i=1;
                         while($fet_type = mysqli_fetch_object($sel_gal)){ ?>
