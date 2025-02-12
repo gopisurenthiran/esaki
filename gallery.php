@@ -49,7 +49,7 @@
                     </div>
                     <div class="gallery breadcrumbs-text">
                             <h1 class="page-title4">GALLERY</h1>
-                            <ul>
+                            <ul class="d-none d-md-block d-lg-block">
                                 <li>
                                     <a class="active" href="index.php">Home</a>
                                 </li>

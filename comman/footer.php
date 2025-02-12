@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-50">
+                <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-50 sm-mt-20">
                     <h4 class="widget-title">Quick Links</h4>
                     <ul class="site-map">
                         <li><a href="about.php">About us</a></li>

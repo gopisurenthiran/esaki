@@ -36,7 +36,7 @@
                     </div>
                     <div class="event breadcrumbs-text white-color">
                             <h1 class="page-title3">NEWS & EVENTS</h1>
-                            <ul>
+                            <ul class="d-none d-md-block d-lg-block">
                                 <li>
                                     <a class="active" href="index.php">Home</a>
                                 </li>

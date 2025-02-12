@@ -35,7 +35,7 @@
                     </div>
                     <div class="inner-page breadcrumbs-text white-color">
                             <h1 class="page-title1">Messages</h1>
-                            <ul>
+                            <ul class="d-none d-md-block d-lg-block">
                                 <li>
                                     <a class="active" href="index.php">Home</a>
                                 </li>
