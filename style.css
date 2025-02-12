@@ -13935,11 +13935,11 @@ body .modal-backdrop {
   box-shadow: 0px 28px 50px 0px rgba(0, 0, 0, 0.05);
   outline: none;
   border: none;
-  padding: 12px 40px;
+  padding: 7px 17px;
   border-radius: 25px;
   display: inline-block;
   text-transform: capitalize;
-  font-size: 16px;
+  font-size: 13px;
   font-weight: 500;
   color: #ffffff;
   background: #ff5421;
@@ -14093,7 +14093,7 @@ body .modal-backdrop {
   background-size: cover;
 }
 .rs-footer .footer-top {
-  padding: 18px 0 13px;
+  padding: 25px 0 20px;
 }
 .rs-footer .footer-top .widget-title {
   color: #ffffff;
@@ -16509,8 +16509,6 @@ background: #3b4c77;
   border: 1px solid #000 !important;
 }
 
-
-
 .body-table-background{  
   background-color: #c3deff;
 } 
@@ -16639,5 +16637,23 @@ background: #3b4c77;
 }
 .rs-breadcrumbs .breadcrumbs-text ul li {
   color:#330066;
+}
+.desc{
+  margin-bottom:0px;
+}
+@media(min-width:320px){
+  .desc{
+    margin-bottom:30px;
+  }
+}
+@media(min-width:690px){
+  .desc{
+    margin-bottom:20px;
+  }
+}
+@media(min-width:1020px){
+  .desc{
+    margin-bottom:0px;
+  }
 }
 /*********************end*************************************/

@@ -47,7 +47,7 @@
                     <h4 class="widget-title">Enquiry</h4>
                           <!-- <h5 class="widget-title">Enquiry Us to join Our Community </h5> -->
 
-                    <div class="rs-newsletter style1 mb--124 sm-mb-0 sm-pb-70">
+                    <div class="rs-newsletter style1">
                         <div class="container">
                             <div class="newsletter-wrap">
 

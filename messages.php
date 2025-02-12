@@ -39,6 +39,7 @@
                                 <li>
                                     <a class="active" href="index.php">Home</a>
                                 </li>
+                                <li> <i class="fa-solid fa-angle-right"></i> </li>
                                 <li>Messages</li>
                             </ul>
                     </div>
